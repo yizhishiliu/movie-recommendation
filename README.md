@@ -37,3 +37,7 @@
 1. 进入Movie-recommendation-system\src\main\webapp\admin目录下，cmd进入命令行；
 2. 执行命令：npm install;
 3. 执行命令：npm run serve。
+
+有偿分享，非诚勿扰.
+**QQ：2790810983**
+助理QQ：3539048933
